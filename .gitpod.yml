@@ -1,0 +1,3 @@
+tasks:
+  - init: sz
+    command: 'echo "TODO: Replace with command to start project"'
